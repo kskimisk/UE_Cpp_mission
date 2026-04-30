@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.MyMoveMimic.gen.cpp.obj": [
-			"MyMimic.gen.cpp.obj",
-			"MyMoveMimic.init.gen.cpp.obj"
-		]
-	}
-}

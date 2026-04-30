@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyMoveMimic.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Intermediate/Build/Win64/x64/MyMoveMimicEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyMoveMimic/MyMoveMimic.cpp.obj"
+"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyMoveMimic/PerModuleInline.gen.cpp.obj"
+"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyMoveMimic/Default.rc2.res"
+/OUT:"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyMoveMimic/UnrealEditor-MyMoveMimic.lib"

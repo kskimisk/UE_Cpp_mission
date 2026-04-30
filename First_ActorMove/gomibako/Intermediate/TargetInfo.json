@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyMoveMimic",
+			"Path": "..\\Source\\MyMoveMimic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyMoveMimicEditor",
+			"Path": "..\\Source\\MyMoveMimicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

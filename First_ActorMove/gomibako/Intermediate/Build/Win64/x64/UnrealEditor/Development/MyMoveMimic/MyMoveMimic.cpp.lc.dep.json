@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kimis\\desktop\\unreal_class\\unreal_mission\\first_actormove\\mymovemimic\\source\\mymovemimic\\mymovemimic.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kimis\\desktop\\unreal_class\\unreal_mission\\first_actormove\\mymovemimic\\intermediate\\build\\win64\\x64\\mymovemimiceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kimis\\desktop\\unreal_class\\unreal_mission\\first_actormove\\mymovemimic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mymovemimic\\definitions.mymovemimic.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\unreal_mission\\first_actormove\\mymovemimic\\source\\mymovemimic\\mymovemimic.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

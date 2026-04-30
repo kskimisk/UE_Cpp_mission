@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Content/MimicMap.umap",
+				"C:/Users/kimis/Desktop/Unreal_class/Unreal_mission/First_ActorMove/MyMoveMimic/Content/MyMimics.uasset"
+			]
+		}
+	]
+}
